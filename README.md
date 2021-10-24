@@ -29,7 +29,8 @@ Node-red
 Bibliotecas e Azure
  
 ## Arquivo da arquitetura de solução
- 
+![MicrosoftTeams-image](https://user-images.githubusercontent.com/41848606/138606818-7498f79e-c28d-421a-bfa1-9a8fd3d73ddf.png)
+
  
 # Challenge Sprint 4
  
